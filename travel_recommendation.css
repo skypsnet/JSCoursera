@@ -1,0 +1,52 @@
+body {
+    background-image: url("./assets/MexicoCity.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+}
+
+.socialMe{
+    padding-top: 25rem;
+}
+
+.mainContentText{
+    padding-top: 12rem;
+    padding-right: 5rem;
+}   
+
+.mainContentText>h1{
+    color: white;
+    background-color: black;
+}
+
+.mainContentText>p{
+    color: white;
+    background-color: black;
+}
+
+.aboutUsContent{
+    padding-top: 6rem;
+}
+
+.aboutUsContent>h1{
+    padding-bottom: 2rem;
+    
+}
+
+.aboutUsContent>h2{
+    color: white;
+    
+}
+
+.aboutUsContent>p{
+    padding-bottom: 2rem;
+}
+
+.contactus{
+    text-align: center;
+    padding-top: 30%;
+    color: white;
+}
+
+.formContacUs{
+     padding-top: 30%;    
+}
